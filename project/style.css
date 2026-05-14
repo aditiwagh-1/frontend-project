@@ -84,8 +84,7 @@ p{
 #page2-heading{
     color: white;
     font-size: 50px;
-    display: inline-block;
-    
+    display: inline-block; 
 }
 #para-content{
     color: white;
@@ -108,7 +107,7 @@ p{
     width: 380px;
     background-color: white;
     margin-left: 20px;
-    transform: translate(500px,-415px); 
+    transform: translate(500px,-450px); 
     border-radius: 30px;
 }
 #div3{
@@ -116,7 +115,7 @@ p{
     width: 380px;
     background-color: white;
     margin-left: 20px;
-    transform: translate(900px,-880px);
+    transform: translate(900px,-950px);
     border-radius: 30px;
 }
 
@@ -129,4 +128,80 @@ p{
     height: 150px;
     border-radius: 50px;
     transform: translate(0px,30px);
+}
+#page2-subheading1{
+    font-size: 50px;
+    font-weight: 900;
+}
+#page2-subheading2{
+    font-size: 50px;
+    font-weight: 900;
+}
+#page2-subheading3{
+    font-size: 50px;
+    font-weight: 900;
+}
+#page2-para{
+    line-height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+#page2-para2{
+    line-height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+#page2-para3{
+    line-height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+#footer{
+    height: 600px;
+    /* background-color: pink; */
+    margin: 40px;
+    margin-top: 50px;
+}
+#About-Us{
+    margin: 40px;
+    margin-top: 50px;
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    /* align-items: center; */
+    /* text-decoration: none; */
+    transform: translate(400px,-280px);
+    text-align: center;
+}
+#Pricing{
+    margin: 40px;
+    margin-top: 80px;
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    transform: translate(660px,-710px);
+    text-align: center;
+}
+#media{
+    margin: 40px;
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    transform: translate(910px,-1100px);
+    text-align: center;
+}
+#contact1{
+    margin: 40px;
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    transform: translate(1150px,-1490px);
+    text-align: center;
+}
+#Copyright{
+    margin: 40px;
+    background-color: white;
+    width: 300px;
+    height: 350px;
+    transform: translate(40px,110px);
 }
