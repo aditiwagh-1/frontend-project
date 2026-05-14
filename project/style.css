@@ -1,0 +1,132 @@
+#logo{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: black;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    display: inline-block;
+    margin-right: 7px;
+}
+#home{
+    margin-left: 800px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+#about{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+#bankai{
+    margin-left: 80px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+#contact{
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    border-radius: 07px;
+    height: 30px;
+    width: 100px;
+    background-color: black;
+}
+h3{
+    display: inline-block;
+    font-size: larger;
+}
+#navbar{
+    /* margin-top: 20px; */
+    /* margin-: 40px; */
+    /* background-color: gray; */
+    margin-left: 40px;
+    margin-top: 80px;
+}
+#image{
+    height: auto;
+    width: 550px;
+    transform: translate(180px,-90px);
+}
+#main-content{
+    width: 600px;
+    height: 800px;
+}
+#heading{
+    font-size: 70px;
+}
+#rating-image{
+    height: 150px;
+    align-items: center;
+    display: inline-block;
+    margin-left: 04px;
+}
+p{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#body-page1{
+    display: flex;
+    align-items: center;
+    justify-content: gap;
+    margin-left: 30px;
+
+}
+
+#page2-heading{
+    color: white;
+    font-size: 50px;
+    display: inline-block;
+    
+}
+#para-content{
+    color: white;
+    display: inline-block;
+    margin-left: 320px;
+    font-weight: 50;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#div1{
+    height: 450px;
+    width: 380px;
+    background-color: white;
+    margin-left: 20px;
+    transform: translate(100px,50px);
+    /* display: inline; */
+    border-radius: 30px;
+}
+#div2{
+    height: 450px;
+    width: 380px;
+    background-color: white;
+    margin-left: 20px;
+    transform: translate(500px,-415px); 
+    border-radius: 30px;
+}
+#div3{
+    height:450px;
+    width: 380px;
+    background-color: white;
+    margin-left: 20px;
+    transform: translate(900px,-880px);
+    border-radius: 30px;
+}
+
+#navbar-page2{
+    /* margin-top: 100px; */
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    background-color: rgba(14, 13, 13, 0.2);
+    height: 150px;
+    border-radius: 50px;
+    transform: translate(0px,30px);
+}

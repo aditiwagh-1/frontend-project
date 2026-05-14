@@ -1,0 +1,19 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    font-size: 20px;
+}
+#box2{
+    /* height: 50%; */
+    width: 50%;
+    /* width: 30%; */
+    background-color: red;
+    margin-left: 10%;
+    font-size: 2em; 
+    /* 2 times of font size */ 
+    /* width: 5em; */
+    /* width: 5rem; 16*5 = 80px */
+    /* height: 1vh; browser ke height ke 1% size hoga */
+}
+
