@@ -1,0 +1,38 @@
+.btns{ /*this is parent elements*/
+    background-color: rgb(222, 210, 196);
+    height: 50vmin;
+    width: 40vmin;
+    padding: 7vmin;
+    grid-template-columns: repeat(auto-fit, minmax(8vmin, 1fr));
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    gap: 0.21vmin; 
+    /* grid-column: span 2; */
+    border: 26px solid maroon;
+    border-radius: 10%;
+    /* margin-top: 8vmin; */
+}
+.btn{
+    height: 10vmin;
+    width: 8vmin;
+    
+    /* grid-template-columns: repeat(auto-fit , minmax(200px, 1fr)); */
+}
+body{
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 17vmin;
+}
+.output{
+    height: 10vmin;
+    width: 45vmin;
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-column:  1 / span 3;
+    
+}
